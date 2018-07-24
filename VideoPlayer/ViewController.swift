@@ -4,11 +4,10 @@
 //
 //  Created by iK on 6/22/18.
 //  Copyright © 2018 iK. All rights reserved.
-
-
+//////
 import UIKit
 import AVFoundation
-import AVKit
+//import AVKit
 
 
 class ViewController: UIViewController {
